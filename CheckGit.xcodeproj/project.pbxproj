@@ -14,6 +14,7 @@
 		5BE8E90A1ABC2D2E00D40FF8 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5BE8E9091ABC2D2E00D40FF8 /* Images.xcassets */; };
 		5BE8E90D1ABC2D2E00D40FF8 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5BE8E90B1ABC2D2E00D40FF8 /* LaunchScreen.xib */; };
 		5BE8E9191ABC2D2E00D40FF8 /* CheckGitTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BE8E9181ABC2D2E00D40FF8 /* CheckGitTests.swift */; };
+		5BE8E9231ABC2D7600D40FF8 /* FirstClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BE8E9221ABC2D7600D40FF8 /* FirstClass.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		5BE8E9121ABC2D2E00D40FF8 /* CheckGitTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CheckGitTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5BE8E9171ABC2D2E00D40FF8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5BE8E9181ABC2D2E00D40FF8 /* CheckGitTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckGitTests.swift; sourceTree = "<group>"; };
+		5BE8E9221ABC2D7600D40FF8 /* FirstClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FirstClass.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 		5BE8E8F11ABC2D2E00D40FF8 = {
 			isa = PBXGroup;
 			children = (
+				5BE8E9221ABC2D7600D40FF8 /* FirstClass.swift */,
 				5BE8E8FC1ABC2D2E00D40FF8 /* CheckGit */,
 				5BE8E9151ABC2D2E00D40FF8 /* CheckGitTests */,
 				5BE8E8FB1ABC2D2E00D40FF8 /* Products */,
@@ -216,6 +219,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5BE8E9051ABC2D2E00D40FF8 /* ViewController.swift in Sources */,
+				5BE8E9231ABC2D7600D40FF8 /* FirstClass.swift in Sources */,
 				5BE8E9001ABC2D2E00D40FF8 /* AppDelegate.swift in Sources */,
 				5BE8E9031ABC2D2E00D40FF8 /* CheckGit.xcdatamodeld in Sources */,
 			);
