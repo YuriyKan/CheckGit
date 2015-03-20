@@ -40,6 +40,8 @@
 		5BE8E9171ABC2D2E00D40FF8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5BE8E9181ABC2D2E00D40FF8 /* CheckGitTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckGitTests.swift; sourceTree = "<group>"; };
 		5BE8E9221ABC2D7600D40FF8 /* FirstClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FirstClass.swift; sourceTree = "<group>"; };
+		5BE8E9241ABC2DAD00D40FF8 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/Main.strings; sourceTree = "<group>"; };
+		5BE8E9251ABC2DAD00D40FF8 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -248,6 +250,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				5BE8E9071ABC2D2E00D40FF8 /* Base */,
+				5BE8E9241ABC2DAD00D40FF8 /* ar */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -256,6 +259,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				5BE8E90C1ABC2D2E00D40FF8 /* Base */,
+				5BE8E9251ABC2DAD00D40FF8 /* ar */,
 			);
 			name = LaunchScreen.xib;
 			sourceTree = "<group>";
